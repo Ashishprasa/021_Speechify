@@ -16,7 +16,7 @@ source_text = "This is the source text that you want to translate."
 # Translate the text to Hindi
 translations = translator.translate(source_text, dest='hi')
 
-# Extract translated text and store in a list
+# Extract translated text and store in a list this method is called listcompression 
 translated_list = [translation.text for translation in translations]
 
 # Convert the list of translated strings to a single string
