@@ -32,4 +32,4 @@ python translate_and_generate_speech.py
 
 ## Contributing
 
-Feel free to contribute to this project by suggesting improvements or adding new features. You can fork this repository, make your changes, and then submit a pull request.
+Feel free to contribute to this project by suggesting improvements or adding new features. You can fork this repository, make your changes, and then submit a pull request. 🙂
